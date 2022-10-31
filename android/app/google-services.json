@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "632375936802",
+    "project_id": "ujikom2-e14b2",
+    "storage_bucket": "ujikom2-e14b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632375936802:android:2b55a59c35e09e73ac477b",
+        "android_client_info": {
+          "package_name": "com.example.flutter_ujikon_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632375936802-v78uve8djf6lhlbotp7dt6dhvfsn1fub.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrxX9oKpetTQYEjTRbCqFVpe_39XYUI6Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "632375936802-v78uve8djf6lhlbotp7dt6dhvfsn1fub.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
